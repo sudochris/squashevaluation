@@ -1,0 +1,3 @@
+[submodule "pannotator"]
+	path = pannotator
+	url = https://github.com/sudochris/pannotator
