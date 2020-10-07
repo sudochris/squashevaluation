@@ -4,3 +4,6 @@
 [submodule "squashfeetdata"]
 	path = squashfeetdata
 	url = https://github.com/sudochris/squashfeetdata
+[submodule "squashfeettoolkit"]
+	path = squashfeettoolkit
+	url = https://github.com/sudochris/squashfeettoolkit
