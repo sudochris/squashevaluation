@@ -1,3 +1,6 @@
 [submodule "pannotator"]
 	path = pannotator
 	url = https://github.com/sudochris/pannotator
+[submodule "squashfeetdata"]
+	path = squashfeetdata
+	url = https://github.com/sudochris/squashfeetdata

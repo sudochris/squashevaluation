@@ -6,6 +6,14 @@
 
 ### Submodule overview:
 
-| Submodule  | Content                                   |
-|:-----------|:------------------------------------------|
-| pannotator | object instance and event annotation tool |
+| Submodule      | Content                                                |
+|:---------------|:-------------------------------------------------------|
+| pannotator     | Object instance and event annotation tool              |
+| squashfeetdata | Dataset created using pannotator and used in the paper |
+
+### Citation
+Please cite in your publications if it helps your research:
+    
+    TBA: BibTeX Entry  
+
+TBA: [link to paper]()
